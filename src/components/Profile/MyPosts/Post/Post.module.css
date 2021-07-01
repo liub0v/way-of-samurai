@@ -1,0 +1,15 @@
+.post {
+    background-color: #c7c7c7;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 20px;
+    font-family: var(--font-post);
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+}
+.post img {
+    padding: 0 10px 0 0;
+    width: 75px;
+}
